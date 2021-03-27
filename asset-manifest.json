@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/yeomeor.github.io/beatfreak/static/css/main.148ac17c.chunk.css",
-    "main.js": "/yeomeor.github.io/beatfreak/static/js/main.2e3f632d.chunk.js",
-    "main.js.map": "/yeomeor.github.io/beatfreak/static/js/main.2e3f632d.chunk.js.map",
-    "runtime-main.js": "/yeomeor.github.io/beatfreak/static/js/runtime-main.7e1dc4b7.js",
-    "runtime-main.js.map": "/yeomeor.github.io/beatfreak/static/js/runtime-main.7e1dc4b7.js.map",
-    "static/js/2.8fc2fb3a.chunk.js": "/yeomeor.github.io/beatfreak/static/js/2.8fc2fb3a.chunk.js",
-    "static/js/2.8fc2fb3a.chunk.js.map": "/yeomeor.github.io/beatfreak/static/js/2.8fc2fb3a.chunk.js.map",
-    "index.html": "/yeomeor.github.io/beatfreak/index.html",
-    "static/css/main.148ac17c.chunk.css.map": "/yeomeor.github.io/beatfreak/static/css/main.148ac17c.chunk.css.map",
-    "static/js/2.8fc2fb3a.chunk.js.LICENSE.txt": "/yeomeor.github.io/beatfreak/static/js/2.8fc2fb3a.chunk.js.LICENSE.txt"
+    "main.css": "/beatfreak/static/css/main.148ac17c.chunk.css",
+    "main.js": "/beatfreak/static/js/main.2e3f632d.chunk.js",
+    "main.js.map": "/beatfreak/static/js/main.2e3f632d.chunk.js.map",
+    "runtime-main.js": "/beatfreak/static/js/runtime-main.ccf8a754.js",
+    "runtime-main.js.map": "/beatfreak/static/js/runtime-main.ccf8a754.js.map",
+    "static/js/2.8fc2fb3a.chunk.js": "/beatfreak/static/js/2.8fc2fb3a.chunk.js",
+    "static/js/2.8fc2fb3a.chunk.js.map": "/beatfreak/static/js/2.8fc2fb3a.chunk.js.map",
+    "index.html": "/beatfreak/index.html",
+    "static/css/main.148ac17c.chunk.css.map": "/beatfreak/static/css/main.148ac17c.chunk.css.map",
+    "static/js/2.8fc2fb3a.chunk.js.LICENSE.txt": "/beatfreak/static/js/2.8fc2fb3a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e1dc4b7.js",
+    "static/js/runtime-main.ccf8a754.js",
     "static/js/2.8fc2fb3a.chunk.js",
     "static/css/main.148ac17c.chunk.css",
     "static/js/main.2e3f632d.chunk.js"
